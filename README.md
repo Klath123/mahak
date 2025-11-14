@@ -8,7 +8,7 @@
 
 ## 🚀 Deployment
 
-**Live Application(for desktop only)**: [Add Your Deployed Link Here](https://mahak-1.onrender.com/)
+**Live Application(for desktop only)**: [MahakPerfumes](https://mahak-1.onrender.com/)
 
 ## 📸 Screenshots
 
@@ -22,7 +22,7 @@
 ![Product Detail](./screenshot/productDetail.png)
 
 ### Contact Page
-![Contact Page](./screenshot/contactUs.png)
+![Contact Page](./screenshot/ContactUs.png)
 
 ### Review Section
 ![Review Section](./screenshot/review.png)
