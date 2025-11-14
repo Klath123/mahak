@@ -10,6 +10,23 @@
 
 **Live Application(for desktop only)**: [Add Your Deployed Link Here](https://mahak-1.onrender.com/)
 
+## 📸 Screenshots
+
+### Home Page
+![Home Page](./screenshot/homePage.png)
+
+### Product Collections
+![Collections](./screenshot/collection.png)
+
+### Product Detail Page
+![Product Detail](./screenshot/productDetail.png)
+
+### Contact Page
+![Contact Page](./screenshot/contactUs.png)
+
+### Review Section
+![Review Section](./screenshot/review.png)
+
 ## ✨ Features
 
 - **Product Catalog**: Browse perfume collections and view detailed product pages with multiple images, descriptions, ingredients, and available sizes
